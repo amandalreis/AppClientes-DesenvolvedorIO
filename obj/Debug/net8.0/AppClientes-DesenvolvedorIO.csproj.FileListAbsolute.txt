@@ -1,0 +1,14 @@
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/bin/Debug/net8.0/AppClientes-DesenvolvedorIO
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/bin/Debug/net8.0/AppClientes-DesenvolvedorIO.deps.json
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/bin/Debug/net8.0/AppClientes-DesenvolvedorIO.runtimeconfig.json
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/bin/Debug/net8.0/AppClientes-DesenvolvedorIO.dll
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/bin/Debug/net8.0/AppClientes-DesenvolvedorIO.pdb
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/obj/Debug/net8.0/AppClientes-DesenvolvedorIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/obj/Debug/net8.0/AppClientes-DesenvolvedorIO.AssemblyInfoInputs.cache
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/obj/Debug/net8.0/AppClientes-DesenvolvedorIO.AssemblyInfo.cs
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/obj/Debug/net8.0/AppClientes-DesenvolvedorIO.csproj.CoreCompileInputs.cache
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/obj/Debug/net8.0/AppClientes-DesenvolvedorIO.dll
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/obj/Debug/net8.0/refint/AppClientes-DesenvolvedorIO.dll
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/obj/Debug/net8.0/AppClientes-DesenvolvedorIO.pdb
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/obj/Debug/net8.0/AppClientes-DesenvolvedorIO.genruntimeconfig.cache
+/Users/labes/AppClientes-DesenvolvedorIO/AppClientes-DesenvolvedorIO/obj/Debug/net8.0/ref/AppClientes-DesenvolvedorIO.dll
