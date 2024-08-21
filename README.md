@@ -1,4 +1,4 @@
-**AppClientes-DesenvolvedorIO**
+**AppClientes**
 
 O aplicativo AppClientes foi desenvolvido para permitir ao usuário gerenciar um cadastro de clientes de forma simples e intuitiva. Através de um menu interativo no console, é possível adicionar, visualizar, editar, excluir clientes, ou encerrar a aplicação.
 
